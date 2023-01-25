@@ -10,4 +10,3 @@ class Square:
         """Def
         """
         self.__size = size
-        
